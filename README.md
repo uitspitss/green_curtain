@@ -1,5 +1,3 @@
-#Time-stamp: <Wed Mar 11 11:18:47 JST 2015>
-
 *** What's it? ***
 植物の成長観察日記を付けるために、
 raspberry pi でタイムラプス撮影し、
